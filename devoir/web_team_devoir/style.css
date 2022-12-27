@@ -1,0 +1,53 @@
+body{
+   background-color: rgb(129, 112, 56);
+}
+h1{
+    color: burlywood;
+    font-size: 30px;
+    text-align: center;
+    border: 4px solid black;
+
+}
+h2{
+    text-align: right;
+}
+.little{
+    background-color: brown;
+    width:20px;
+    border:10px solid white;
+    padding:10px;
+    text-align: center;
+    
+    }
+.big{
+    border:7px solid black;
+      width: 60px;
+}
+fieldset{
+    background-color:grey;
+    text-align: center;
+    
+    }
+    table{
+        width: 100%;
+        height: 100vh;
+    }
+    
+    .image{
+        height: 10%;
+        width: 100%;
+        text-align: center;
+    }
+    img{
+        width: 50%;
+    }
+    
+    .video{
+        text-align: center;
+        height: 10%;
+    }
+    video{
+        width: 50%;
+    }
+    
+   
